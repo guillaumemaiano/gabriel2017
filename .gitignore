@@ -1,0 +1,6 @@
+# on a Mac
+.DS_Store
+# cloned from their base git and not modified (or if so, I don't care if I lose changes... one-shot site)
+themes/
+# deploy folder
+docs/

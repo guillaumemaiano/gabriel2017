@@ -1,0 +1,26 @@
+baseURL = "http://gabriel.maiano.fr/"
+languageCode = "fr-fr"
+title = "Gabriel Maiano-Maggio"
+theme = "vienna"
+pygmentsuseclasses = true
+google_font = 'Heebo:400,700'
+publishDir = "docs"
+copyright = "&copy; Guillaume Maiano 2017"
+
+params = {
+    themecolor = "0000D0",
+#    author = "Laetitia & Guillaume Maiano",
+     bio = "Rendez-vous l'Hôtel de Ville vers 9:00",
+    inc = {
+        subtitle =  "Apprendre chaque jour" ,
+        cover_image =  "arduino-GabrielTemp1.JPG",
+        logo =         "logo.png",
+        company = "",
+        url = "http://gabriel.maiano.fr",
+        github = "",
+            twitter =      "",
+            sharing = {
+                twitter =    true,
+                facebook =   true,
+                gplus =      true,
+                hn =         true } } }
